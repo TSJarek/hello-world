@@ -1,2 +1,3 @@
 # hello-world
 Pierwsze repozytorium
+To ja, uczę się GitHuba, Phytona, CSS, HTML i innych....
