@@ -1,3 +1,3 @@
 # hello-world
 Pierwsze repozytorium
-Lubię żeglować.
+To ja, uczę się GitHuba, Phytona, CSS, HTML i innych....
